@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+cpp/.idea/.name
+
+*.iml
+
+cpp/cmake-build-debug/bin/blog
+
+*.cbp
